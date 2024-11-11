@@ -10,10 +10,25 @@ La pagina principal será una página que será a modo publicitario, donde se ha
 
 Luego para acceder a la página web, se deberá si o si iniciar sesión, en caso de que no se posea una cuenta puede ser creada, los datos a registrar para crear una cuenta debe ser como minimo, el gmail, un nombre para la cuenta y una contraseña. 
 
+Página para tu cuenta personal de la app
+
+Página de la comunidad
+	1. Publicaciones destacadas
+ 	2. Publicaciones recientes
+ 	3. Chats publicos
+  	4. Mis chats
+   	4. 
+ 
+
+Página para crear una comunidad
 
 ### 2.Colores
 
 
-###
+## Elementos necesarios para llevar a cabo el proyecto
+
+1. Una base de datos (nos podría servir phpMyadmin).
+2. Un servidor público.
+3. Una estructura que mezcle php, html y css.
 
 	      
